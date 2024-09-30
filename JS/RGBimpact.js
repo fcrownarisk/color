@@ -13,5 +13,4 @@ const impact6 = 'impact1 - impact2' + 'impact3 - impact4'
 const impact7 = 'impact2 / impact3' + 'impact4 / impact0'
 const impact8 = 'impact3 % impact4' + 'impact1 % impact2'
 console.log('element','Green','Blue','anti')
-console.log(impact0, impact1, impact2, impact3, impact4)
-console.log(impact5, impact6, impact7, impact8)
+console.log(impact0, impact1, impact2, impact3, impact4, impact5, impact6, impact7, impact8)
