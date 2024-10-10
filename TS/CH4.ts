@@ -16,7 +16,7 @@ class C53H108 implements CH4 {
      carbonCount: number = 53
      hydrogenCount: number = 108
 }
-function *generateCH22(){
+function *generateCH4(){
     yield new C5H12()
     yield new C17H36()
     yield new C53H108()
